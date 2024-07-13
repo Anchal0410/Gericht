@@ -1,3 +1,3 @@
+![Uploading gerich1.png…]()
 
-A restaurant website built with React.js offers a dynamic, responsive user interface, featuring smooth navigation, attractive menu display. 
-It seamlessly integrates high-quality images, providing an engaging and visually appealing experience across all devices. 
+![gerich2](https://github.com/user-attachments/assets/d10dfe55-07a0-4655-a56f-f6eff06c94b3)
