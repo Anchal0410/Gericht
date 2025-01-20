@@ -2,57 +2,57 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Carlsberg',
+    price: '₹190',
+    tags: 'Bottle',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Simba',
+    price: '₹1100',
+    tags: 'Bottle',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'Haywards 500',
+    price: '₹200',
+    tags: '750 ml',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Godfather',
+    price: '₹190',
+    tags: '750 ml',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Zingaroo',
+    price: '₹270',
+    tags: '750 ml',
   },
 ];
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
-    price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    title: 'Gingerade',
+    price: '₹300',
+    tags: ' soda | 30 ml',
   },
   {
     title: "Dark 'N' Stormy",
-    price: '$16',
+    price: '₹290',
     tags: 'Dark rum | Ginger beer | Slice of lime',
   },
   {
     title: 'Daiquiri',
-    price: '$10',
+    price: '₹270',
     tags: 'Rum | Citrus juice | Sugar',
   },
   {
     title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    price: '₹300',
+    tags: 'Bourbon | Brown sugar ',
   },
   {
     title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    price: '₹280',
+    tags: 'Gin | Orange garnish',
   },
 ];
 
